@@ -62,6 +62,7 @@ Working for yourself is hard enough. This list collects the genuinely useful —
 ## Contracts & Legal
 
 - [Bonsai Contracts](https://www.hellobonsai.com/contracts) - Lawyer-vetted freelance templates.
+- [contract-checklist-cli](https://github.com/kleogeos/contract-checklist-cli) - Zero-dependency CLI that scans a freelance contract for commonly-missing clauses such as payment terms, late fees, IP ownership, and termination.
 - [DocuSign](https://www.docusign.com) - Industry-standard e-signature.
 - [Docz.me Contracts](https://docz.me) - Templates, e-signatures, storage in one workflow.
 - [HelloSign](https://www.hellosign.com) - E-signatures by Dropbox.
